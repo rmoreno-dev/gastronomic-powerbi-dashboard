@@ -1,0 +1,17 @@
+{
+  "name": "Matcha & Crema",
+  "dataColors": [
+    "#2E7D52","#8B6914","#4CAF80",
+    "#C49A3A","#1A5C3A","#A07010",
+    "#6DBF8A","#E0B84A"
+  ],
+  "background": "#FAFAF7",
+  "foreground": "#1A2F22",
+  "tableAccent": "#2E7D52",
+  "visualStyles": {
+    "*": { "*": {
+      "background": [{"color":{"solid":{"color":"#F0EDE4"}}}],
+      "border": [{"show": false}]
+    }}
+  }
+}
